@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+# gem 'dotenv-rails'
 gem 'faker'
 gem 'faker-medical'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
