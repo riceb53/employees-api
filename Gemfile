@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'rails_12factor', group: :production
 # gem 'dotenv-rails'
 gem 'faker'
 gem 'faker-medical'
